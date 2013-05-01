@@ -7,5 +7,5 @@ Usage
 ---
 
 <pre>
-sh lint.sh <thrift_file>
+sh lint.sh thrift_file.thrift
 </pre>
